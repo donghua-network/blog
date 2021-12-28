@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# blog
-DonghuaHub Blog
-=======
-# Gatsby + Netlify CMS Starter for DongHuaHub
+# Gatsby + Netlify CMS Starter
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
 
@@ -137,4 +133,3 @@ This plugin uses [gatsby-plugin-purgecss](https://www.gatsbyjs.org/packages/gats
 
 Contributions are always welcome, no matter how large or small. Before contributing,
 please read the [code of conduct](CODE_OF_CONDUCT.md).
->>>>>>> dd4d16f (Update README.md)
