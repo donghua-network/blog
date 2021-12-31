@@ -1,2 +1,2 @@
 # blog
-DonghuaHub Blog edit 123 (must fork it to work)
+Gatsby + Netlify CMS Starter for DongHuaHub
